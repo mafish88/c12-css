@@ -1,0 +1,30 @@
+body{
+    background-color: chartreuse;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#box{
+    background-color: coral;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 1;
+    
+}
+.box__text{
+padding: 100px;
+}
+
+#circle{
+    background-color: coral;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 300px;
+    
+}
+.circle__text{
+padding: 100px;
+}
